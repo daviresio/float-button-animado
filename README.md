@@ -8,4 +8,4 @@ This project is a starting point for a Flutter application.
 
 ## Screenshots
 
-![screenshot] (/float-button-example.png)
+![screenshot] (https://github.com/daviresio/float-button-animado/blob/master/float_button_example.png)
