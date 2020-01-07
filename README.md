@@ -8,4 +8,4 @@ This project is a starting point for a Flutter application.
 
 ## Screenshots
 
-![screenshot] (float-button-example.png)
+![screenshot] (/float-button-example.png)
